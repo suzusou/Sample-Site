@@ -14,7 +14,7 @@ li {
 
 .header {
     color: #000;
-    background: #b2c9cdf3;
+    background: #c0d7dbf3;
     width: 100vw;
     position: fixed;
 }
@@ -75,7 +75,7 @@ li {
     /*hover時に表示*/
     height: 2px;
     /*下線の高さ*/
-    background: #000;
+    background: #f1afa9;
     /*下線の色*/
     transform: scale(0, 1);
     /*トランス前の下線*/
